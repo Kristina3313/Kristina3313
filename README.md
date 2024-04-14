@@ -1,12 +1,9 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Software Automation QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing. 
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Crystal13Kris)        
 ---
 ### 🛠 &nbsp;Languages and Tools:
@@ -24,7 +21,8 @@ I am a Software Automation QA engineer <img src="https://media.giphy.com/media/W
 
 ---
 
-|   Проект | Описание |
+|   Описание | Проект |
 | ------------- | ------------- |
-|   Описание дипломного проекта  | [Диплом-1](https://github.com/Kristina3313/Diplom_1)  |
-| Content Cell  | Content Cell  |
+| Юнит-тесты для программы заказа бургеров в Stellar Burgers, с использованием моков и параметризации для тестирования различных сценариев заказа.  | [UNIT TESTS](https://github.com/Kristina3313/Diplom_1)  |
+| API-тесты для программы заказа бургеров в Stellar Burgers, с использованием бибилиотек pytest, requests и allure-pytest. | [API TESTS](https://github.com/Kristina3313/API-tests)  |
+| UI-тесты для программы заказа бургеров в Stellar Burgers,  с использованием паттерна Page Object Model, библиотеками selenium, pytest, allure и применением фикстур, параметризаций.  | [UI TESTS](https://github.com/Kristina3313/UI-tests)  |
