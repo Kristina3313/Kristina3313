@@ -4,7 +4,7 @@
 
 I am a Software Automation QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Crystal13Kris)        
+- 📫 Мой контакт: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Crystal13Kris)        
 ---
 ### 🛠 &nbsp;Languages and Tools:
 <p>
